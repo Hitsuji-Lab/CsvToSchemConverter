@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "minecraft-data": "^2.113.1",
+    "prismarine-schematic": "^1.2.2"
+  },
+  "name": "csv-to-schem-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitsuji-Lab/CsvToSchemConverter.git"
+  },
+  "author": "inku25253 <inku25253@users.noreply.github.com>",
+  "license": "MIT",
+  "description": "make minecraft schematics file from csv file.",
+  "bugs": {
+    "url": "https://github.com/Hitsuji-Lab/CsvToSchemConverter/issues"
+  },
+  "homepage": "https://github.com/Hitsuji-Lab/CsvToSchemConverter#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
